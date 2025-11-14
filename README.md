@@ -3,3 +3,6 @@
 ---
 ### I dare say you can see my solutions. I ❤️ leetCode!
 ### Currently typing in C.
+
+# MILESTONES
+🎉First Problem Solved! 13 November 2025
